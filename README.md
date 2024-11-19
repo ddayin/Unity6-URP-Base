@@ -1,2 +1,3 @@
 # Unity6-URP-Base
-base unity 6 project which supports URP
+unity 6 base template project which supports URP.  
+You can call this project as Framework.
